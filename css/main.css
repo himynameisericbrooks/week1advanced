@@ -8,7 +8,7 @@ body {
 
 /* navigation */
 .navigation {
-    background-color: #f6f9f9;
+    background-color: #ffffff;
     padding: 25px 100px;
 }
 
@@ -55,11 +55,11 @@ body {
     cursor: pointer;
     padding: 10px 15px;
 }
-
+/* hello */
 #cta a {
     color: #fff;
     display: inline-block;
-    margin-top: 100px;              /* these don't work without each other? */
+    margin-top: 100px;
 }
 
 /* info section */
@@ -251,4 +251,7 @@ form button {
 
 #socialMedia a:first-child {
     padding: 7px 9px;
+}
+.logo {
+    height: 37px;
 }
